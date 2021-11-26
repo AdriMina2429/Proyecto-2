@@ -70,6 +70,12 @@ footer{
     color: yellow;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
 }
+.pregunta4{
+    font-size: 20px;
+    color: yellow;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
 
 
 .boton{
