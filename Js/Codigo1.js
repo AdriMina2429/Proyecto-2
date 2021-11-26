@@ -57,15 +57,3 @@ document.getElementById("btn-cambiar").addEventListener("click",function(){
     }
     document.getElementById("new_msj").innerHTML = nuevoMensaje;
 })
-document.getElementById("btn-1").addEventListener("click",function(){
-    alert("")
-})
- document.getElementById("btn-2").addEventListener("click",function(){
-        alert("")
-    })
-document.getElementById("btn-3").addEventListener("click",function(){
-        alert("")
-    })
- document.getElementById("btn-4").addEventListener("click",function(){
-        alert("")
-    })
